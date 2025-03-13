@@ -21,7 +21,7 @@ This is a simple graphical user interface (GUI) application built using Python's
     
    ```bash
    cd PRODIGY_CS_01
-   python caesar_cipher_gui.py
+   python main.py
    ```
 
 ## How It Works
