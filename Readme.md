@@ -1,4 +1,4 @@
-```markdown
+
 # Caesar Cipher GUI Application - PRODIGY_CS_01
 
 This is a simple graphical user interface (GUI) application built using Python's `tkinter` library that allows users to encrypt and decrypt text using the Caesar Cipher technique. This project is part of **PRODIGY_CS_04**.
@@ -13,13 +13,14 @@ This is a simple graphical user interface (GUI) application built using Python's
 1. Clone or download this repository to your local machine.
 2. Make sure you have Python 3.x installed on your system.
 3. Install the necessary dependencies by running:
-'''
 
   ```bash
    pip install tk
    ```
-4. Run the `caesar_cipher_gui.py` script:
+4. Run the `main.py` script:
+    
    ```bash
+   cd PRODIGY_CS_01
    python caesar_cipher_gui.py
    ```
 
