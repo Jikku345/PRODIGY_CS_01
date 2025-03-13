@@ -1,4 +1,3 @@
-
 ```markdown
 # Caesar Cipher GUI Application - PRODIGY_CS_01
 
@@ -14,7 +13,9 @@ This is a simple graphical user interface (GUI) application built using Python's
 1. Clone or download this repository to your local machine.
 2. Make sure you have Python 3.x installed on your system.
 3. Install the necessary dependencies by running:
-   ```bash
+'''
+
+  ```bash
    pip install tk
    ```
 4. Run the `caesar_cipher_gui.py` script:
@@ -44,9 +45,6 @@ This is a simple graphical user interface (GUI) application built using Python's
 
 ## License
 This project is open-source and available under the MIT License.
-
-## Credits
-Developed by: [Your Name]
 
 ## Contact
 For any issues or questions, feel free to open an issue or contact me at: jikkuabraham2017@gmail.com
